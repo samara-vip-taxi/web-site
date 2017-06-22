@@ -18,8 +18,14 @@ body {
     background-color: rgb(40, 40, 60);
 }
 
+/*
 .header-image {
     background-image: url('../images/background.jpg');
+    background-size: cover;
+}
+*/
+
+.header-image {
     background-size: cover;
 }
 
