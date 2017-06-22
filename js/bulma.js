@@ -2,7 +2,7 @@
 // source: https://gist.github.com/Bradcomp/a9ef2ef322a8e8017443b626208999c1
 
 $(document).ready(function(){
-  $(".header-image").css("backgroundImage", "url('../images/background.jpg')");
+  $("#hero").css("backgroundImage", "url('../images/background.jpg')");
 });
 
 (function() {
