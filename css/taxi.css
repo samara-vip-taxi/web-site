@@ -78,6 +78,7 @@ a.nav-item.nav-item-footer:hover {
   color:rgb(255, 255, 255);
   font-size: 18pt;
   font-family: 'Yeseva One', cursive;
+  text-transform: uppercase;
 }
 
 .car-list-item {
