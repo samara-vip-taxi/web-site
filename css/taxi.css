@@ -115,3 +115,28 @@ i.fa.fa-camera.car-camera-rate-item {
 th.car-rate-table {
   text-align: right;
 }
+
+.nav-left {
+  flex: 1;
+}
+
+.nav-right {
+  flex: initial;
+}
+
+.nav-lang {
+  align-items: center;
+  display: flex;
+  flex: auto;
+  max-width: 100px;
+}
+
+.lang-link {
+  padding: 4px 15px; 
+}
+
+.active-link {
+  border: solid 1px white;
+  border-radius: 5px;
+  font-weight: bold;
+}
