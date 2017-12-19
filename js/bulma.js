@@ -27,6 +27,10 @@ $("#mercedesBenzE-1").click(function() {
   $("#modalMercedesBenzE").addClass("is-active");
 });
 
+$("#mercedesBenzSprinter-1").click(function() {
+    $("#modalMercedesBenzSprinter").addClass("is-active");
+});
+
 $("#mercedesBenzS-1").click(function() {
   $("#modalMercedesBenzS").addClass("is-active");
 });
@@ -47,6 +51,10 @@ $("#mercedesBenzS-2").click(function() {
   $("#modalMercedesBenzS").addClass("is-active");
 });
 
+$("#mercedesBenzSprinter-2").click(function() {
+    $("#modalMercedesBenzSprinter").addClass("is-active");
+});
+
 $("#lexusLX570-2").click(function() {
   $("#modalLexusLX570").addClass("is-active");
 });
@@ -61,6 +69,10 @@ $("#mercedesBenzE-3").click(function() {
 
 $("#mercedesBenzS-3").click(function() {
   $("#modalMercedesBenzS").addClass("is-active");
+});
+
+$("#mercedesBenzSprinter-3").click(function() {
+    $("#modalMercedesBenzSprinter").addClass("is-active");
 });
 
 $("#lexusLX570-3").click(function() {
