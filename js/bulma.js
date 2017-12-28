@@ -82,3 +82,8 @@ $("#lexusLX570-3").click(function() {
 $(".car-modal-close").click(function() {
    $(".modal").removeClass("is-active");
 });
+
+$("body").on('click', '.show-auto-button', function () {
+    $('.auto-list').show();
+    $('.show-auto-button').hide();
+});

@@ -140,3 +140,24 @@ th.car-rate-table {
   border-radius: 5px;
   font-weight: bold;
 }
+
+.show-auto-button {
+  display: none;
+}
+
+@media (max-width: 766px) {
+
+  .show-auto-button {
+    display: block;
+    font-size: 1rem;
+  }
+
+  .show-auto-button .fa {
+    vertical-align: middle;
+  }
+
+  .auto-list {
+    display: none;
+  }
+
+}
