@@ -83,7 +83,7 @@ $(".car-modal-close").click(function() {
    $(".modal").removeClass("is-active");
 });
 
-$("body").on('click', '.show-auto-button', function () {
+$(".show-auto-button").on('click', function () {
     $('.auto-list').show();
     $('.show-auto-button').hide();
 });
