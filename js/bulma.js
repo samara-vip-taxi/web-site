@@ -17,6 +17,12 @@ $(document).ready(function(){
 			top = $(id).offset().top;
 		$('body,html').animate({scrollTop: top}, 1000);
 	});
+
+    $(".show-auto-button").on('click', function () {
+        console.log($('.auto-list').length);
+        $('.auto-list').show();
+        $('.show-auto-button').hide();
+    });
 });
 
 $("#toyotaCamry-1").click(function() {
@@ -81,10 +87,4 @@ $("#lexusLX570-3").click(function() {
 
 $(".car-modal-close").click(function() {
    $(".modal").removeClass("is-active");
-});
-
-$(".show-auto-button").on('click', function () {
-    console.log($('.auto-list').length);
-    $('.auto-list').show();
-    $('.show-auto-button').hide();
 });
