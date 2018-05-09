@@ -44,6 +44,10 @@ $("#mercedesBenzS222-1").click(function() {
   $("#modalMercedesBenzS222").addClass("is-active");
 });
 
+$("#audiA8-1").click(function() {
+  $("#modalAudiA8").addClass("is-active");
+});
+
 $("#lexusLX570-1").click(function() {
   $("#modalLexusLX570").addClass("is-active");
 });
@@ -68,6 +72,10 @@ $("#mercedesBenzSprinter-2").click(function() {
     $("#modalMercedesBenzSprinter").addClass("is-active");
 });
 
+$("#audiA8-2").click(function() {
+  $("#modalAudiA8").addClass("is-active");
+});
+
 $("#lexusLX570-2").click(function() {
   $("#modalLexusLX570").addClass("is-active");
 });
@@ -90,6 +98,10 @@ $("#mercedesBenzS222-3").click(function() {
 
 $("#mercedesBenzSprinter-3").click(function() {
     $("#modalMercedesBenzSprinter").addClass("is-active");
+});
+
+$("#audiA8-3").click(function() {
+  $("#modalAudiA8").addClass("is-active");
 });
 
 $("#lexusLX570-3").click(function() {
