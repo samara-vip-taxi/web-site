@@ -53,7 +53,7 @@ $("#lexusLX570-1").click(function() {
 });
 
 $("#mercedesVito-1").click(function() {
-  $("#modalHyundaiStarex").addClass("is-active");
+  $("#modalMercedesBenzVito").addClass("is-active");
 });
 
 $("#hyundaiStarex-1").click(function() {
@@ -89,7 +89,7 @@ $("#lexusLX570-2").click(function() {
 });
 
 $("#mercedesVito-2").click(function() {
-  $("#modalHyundaiStarex").addClass("is-active");
+  $("#modalMercedesBenzVito").addClass("is-active");
 });
 
 $("#hyundaiStarex-2").click(function() {
@@ -125,7 +125,7 @@ $("#lexusLX570-3").click(function() {
 });
 
 $("#mercedesVito-3").click(function() {
-  $("#modalHyundaiStarex").addClass("is-active");
+  $("#modalMercedesBenzVito").addClass("is-active");
 });
 
 $("#hyundaiStarex-3").click(function() {
