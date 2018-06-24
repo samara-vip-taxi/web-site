@@ -52,6 +52,14 @@ $("#lexusLX570-1").click(function() {
   $("#modalLexusLX570").addClass("is-active");
 });
 
+$("#mercedesVito-1").click(function() {
+  $("#modalHyundaiStarex").addClass("is-active");
+});
+
+$("#hyundaiStarex-1").click(function() {
+  $("#modalHyundaiStarex").addClass("is-active");
+});
+
 $("#toyotaCamry-2").click(function() {
   $("#modalToyotaCamry").addClass("is-active");
 });
@@ -80,6 +88,14 @@ $("#lexusLX570-2").click(function() {
   $("#modalLexusLX570").addClass("is-active");
 });
 
+$("#mercedesVito-2").click(function() {
+  $("#modalHyundaiStarex").addClass("is-active");
+});
+
+$("#hyundaiStarex-2").click(function() {
+  $("#modalHyundaiStarex").addClass("is-active");
+});
+
 $("#toyotaCamry-3").click(function() {
   $("#modalToyotaCamry").addClass("is-active");
 });
@@ -106,6 +122,14 @@ $("#audiA8-3").click(function() {
 
 $("#lexusLX570-3").click(function() {
   $("#modalLexusLX570").addClass("is-active");
+});
+
+$("#mercedesVito-3").click(function() {
+  $("#modalHyundaiStarex").addClass("is-active");
+});
+
+$("#hyundaiStarex-3").click(function() {
+  $("#modalHyundaiStarex").addClass("is-active");
 });
 
 $(".car-modal-close").click(function() {
