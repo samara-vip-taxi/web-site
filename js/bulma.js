@@ -36,6 +36,10 @@ $("#mercedesBenzSprinter-1").click(function() {
     $("#modalMercedesBenzSprinter").addClass("is-active");
 });
 
+$("#chevroletExpress-1").click(function() {
+    $("#modalChevroletExpress").addClass("is-active");
+});
+
 $("#mercedesBenzS-1").click(function() {
   $("#modalMercedesBenzS").addClass("is-active");
 });
@@ -80,6 +84,10 @@ $("#mercedesBenzSprinter-2").click(function() {
     $("#modalMercedesBenzSprinter").addClass("is-active");
 });
 
+$("#chevroletExpress-2").click(function() {
+    $("#modalChevroletExpress").addClass("is-active");
+});
+
 $("#audiA8-2").click(function() {
   $("#modalAudiA8").addClass("is-active");
 });
@@ -114,6 +122,10 @@ $("#mercedesBenzS222-3").click(function() {
 
 $("#mercedesBenzSprinter-3").click(function() {
     $("#modalMercedesBenzSprinter").addClass("is-active");
+});
+
+$("#chevroletExpress-3").click(function() {
+    $("#modalChevroletExpress").addClass("is-active");
 });
 
 $("#audiA8-3").click(function() {
