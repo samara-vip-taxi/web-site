@@ -44,10 +44,6 @@ $("#chevroletExpress-1").click(function() {
     $("#modalChevroletExpress").addClass("is-active");
 });
 
-$("#mercedesBenzS-1").click(function() {
-  $("#modalMercedesBenzS").addClass("is-active");
-});
-
 $("#mercedesBenzS222-1").click(function() {
   $("#modalMercedesBenzS222").addClass("is-active");
 });
@@ -78,10 +74,6 @@ $("#mercedesBenzMaybach-2").click(function() {
 
 $("#mercedesBenzE-2").click(function() {
   $("#modalMercedesBenzE").addClass("is-active");
-});
-
-$("#mercedesBenzS-2").click(function() {
-  $("#modalMercedesBenzS").addClass("is-active");
 });
 
 $("#mercedesBenzS222-2").click(function() {
@@ -122,10 +114,6 @@ $("#mercedesBenzMaybach-3").click(function() {
 
 $("#mercedesBenzE-3").click(function() {
   $("#modalMercedesBenzE").addClass("is-active");
-});
-
-$("#mercedesBenzS-3").click(function() {
-  $("#modalMercedesBenzS").addClass("is-active");
 });
 
 $("#mercedesBenzS222-3").click(function() {
