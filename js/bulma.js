@@ -36,10 +36,6 @@ $("#mercedesBenzE-1").click(function() {
   $("#modalMercedesBenzE").addClass("is-active");
 });
 
-$("#mercedesBenzSprinter-1").click(function() {
-    $("#modalMercedesBenzSprinter").addClass("is-active");
-});
-
 $("#chevroletExpress-1").click(function() {
     $("#modalChevroletExpress").addClass("is-active");
 });
@@ -80,10 +76,6 @@ $("#mercedesBenzS222-2").click(function() {
   $("#modalMercedesBenzS222").addClass("is-active");
 });
 
-$("#mercedesBenzSprinter-2").click(function() {
-    $("#modalMercedesBenzSprinter").addClass("is-active");
-});
-
 $("#chevroletExpress-2").click(function() {
     $("#modalChevroletExpress").addClass("is-active");
 });
@@ -118,10 +110,6 @@ $("#mercedesBenzE-3").click(function() {
 
 $("#mercedesBenzS222-3").click(function() {
   $("#modalMercedesBenzS222").addClass("is-active");
-});
-
-$("#mercedesBenzSprinter-3").click(function() {
-    $("#modalMercedesBenzSprinter").addClass("is-active");
 });
 
 $("#chevroletExpress-3").click(function() {
