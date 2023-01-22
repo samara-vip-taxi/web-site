@@ -45,10 +45,6 @@ $("#mercedesVito-1").click(function() {
   $("#modalMercedesBenzVito").addClass("is-active");
 });
 
-$("#hyundaiStarex-1").click(function() {
-  $("#modalHyundaiStarex").addClass("is-active");
-});
-
 $("#toyotaCamry-2").click(function() {
   $("#modalToyotaCamry").addClass("is-active");
 });
@@ -69,10 +65,6 @@ $("#mercedesVito-2").click(function() {
   $("#modalMercedesBenzVito").addClass("is-active");
 });
 
-$("#hyundaiStarex-2").click(function() {
-  $("#modalHyundaiStarex").addClass("is-active");
-});
-
 $("#toyotaCamry-3").click(function() {
   $("#modalToyotaCamry").addClass("is-active");
 });
@@ -91,10 +83,6 @@ $("#mercedesBenzS222-3").click(function() {
 
 $("#mercedesVito-3").click(function() {
   $("#modalMercedesBenzVito").addClass("is-active");
-});
-
-$("#hyundaiStarex-3").click(function() {
-  $("#modalHyundaiStarex").addClass("is-active");
 });
 
 $(".car-modal-close").click(function() {
