@@ -28,6 +28,10 @@ $("#toyotaCamry-1").click(function() {
   $("#modalToyotaCamry").addClass("is-active");
 });
 
+$("#mercedesBenzMaybach-1").click(function() {
+  $("#modalMercedesBenzMaybach").addClass("is-active");
+});
+
 $("#mercedesBenzE-1").click(function() {
   $("#modalMercedesBenzE").addClass("is-active");
 });
@@ -68,6 +72,10 @@ $("#toyotaCamry-2").click(function() {
   $("#modalToyotaCamry").addClass("is-active");
 });
 
+$("#mercedesBenzMaybach-2").click(function() {
+  $("#modalMercedesBenzMaybach").addClass("is-active");
+});
+
 $("#mercedesBenzE-2").click(function() {
   $("#modalMercedesBenzE").addClass("is-active");
 });
@@ -106,6 +114,10 @@ $("#hyundaiStarex-2").click(function() {
 
 $("#toyotaCamry-3").click(function() {
   $("#modalToyotaCamry").addClass("is-active");
+});
+
+$("#mercedesBenzMaybach-3").click(function() {
+  $("#modalMercedesBenzMaybach").addClass("is-active");
 });
 
 $("#mercedesBenzE-3").click(function() {
