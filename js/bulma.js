@@ -40,9 +40,6 @@ $("#mercedesBenzS222-1").click(function() {
   $("#modalMercedesBenzS222").addClass("is-active");
 });
 
-$("#lexusLX570-1").click(function() {
-  $("#modalLexusLX570").addClass("is-active");
-});
 
 $("#mercedesVito-1").click(function() {
   $("#modalMercedesBenzVito").addClass("is-active");
@@ -68,10 +65,6 @@ $("#mercedesBenzS222-2").click(function() {
   $("#modalMercedesBenzS222").addClass("is-active");
 });
 
-$("#lexusLX570-2").click(function() {
-  $("#modalLexusLX570").addClass("is-active");
-});
-
 $("#mercedesVito-2").click(function() {
   $("#modalMercedesBenzVito").addClass("is-active");
 });
@@ -94,10 +87,6 @@ $("#mercedesBenzE-3").click(function() {
 
 $("#mercedesBenzS222-3").click(function() {
   $("#modalMercedesBenzS222").addClass("is-active");
-});
-
-$("#lexusLX570-3").click(function() {
-  $("#modalLexusLX570").addClass("is-active");
 });
 
 $("#mercedesVito-3").click(function() {
