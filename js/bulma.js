@@ -24,6 +24,10 @@ $(document).ready(function(){
     });
 });
 
+$("#volkswagenMultivan-1").click(function() {
+  $("#modalVolkswagenMultivan").addClass("is-active");
+});
+
 $("#toyotaCamry-1").click(function() {
   $("#modalToyotaCamry").addClass("is-active");
 });
@@ -45,6 +49,10 @@ $("#mercedesVito-1").click(function() {
   $("#modalMercedesBenzVito").addClass("is-active");
 });
 
+$("#volkswagenMultivan-2").click(function() {
+  $("#modalVolkswagenMultivan").addClass("is-active");
+});
+
 $("#toyotaCamry-2").click(function() {
   $("#modalToyotaCamry").addClass("is-active");
 });
@@ -63,6 +71,10 @@ $("#mercedesBenzS222-2").click(function() {
 
 $("#mercedesVito-2").click(function() {
   $("#modalMercedesBenzVito").addClass("is-active");
+});
+
+$("#volkswagenMultivan-3").click(function() {
+  $("#modalVolkswagenMultivan").addClass("is-active");
 });
 
 $("#toyotaCamry-3").click(function() {
